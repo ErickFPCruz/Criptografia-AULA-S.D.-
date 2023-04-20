@@ -1,2 +1,2 @@
-# Criptografia-AULA-S.D.-
+# Criptografia-AULA-S.D.
 Atividade de Segurança Digital
